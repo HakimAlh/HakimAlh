@@ -1,7 +1,7 @@
-# You have clicked on my profile! 
-There's no turning back.
-✨ _Welcome to my profile_ ✨
-# Hey! I'm just your average software engineering student! ⚡⚡
+
+![GitHub](https://github.com/user-attachments/assets/b21887b8-811d-4433-8b46-94ff048e7daa)
+# ✨ _Welcome to my profile_ ✨
+## Hey! I'm just your average software engineering student that wants to unaverage! ⚡⚡
 
 
 
