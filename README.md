@@ -1,5 +1,6 @@
 
-![GitHub](https://github.com/user-attachments/assets/b21887b8-811d-4433-8b46-94ff048e7daa)
+![Untitled (2)](https://github.com/user-attachments/assets/5c786a7c-bb53-42eb-8671-37f06f10c7dd)
+
 # ✨ _Welcome to my profile_ ✨
 
 
